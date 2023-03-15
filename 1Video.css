@@ -1,0 +1,11 @@
+body
+{
+    background-image: url(./AudioImg/Video.jpg);
+    background-repeat: no-repeat;
+    background-attachment:fixed ;
+    background-size:cover;
+}
+*
+{
+    color: white;
+}

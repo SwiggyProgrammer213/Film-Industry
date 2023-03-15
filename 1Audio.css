@@ -1,0 +1,11 @@
+body
+{
+    background-image: url(./AudioImg/bass.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+*
+{
+    color: white;
+}

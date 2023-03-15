@@ -1,0 +1,11 @@
+body
+{
+    background-image: url(./AudioImg/camera.jpg);
+    background-repeat: no-repeat;
+    background-attachment:fixed ;
+    background-size:cover;
+}
+*
+{
+    color: rgb(245, 237, 237);
+}
